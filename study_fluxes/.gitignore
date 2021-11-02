@@ -1,4 +1,6 @@
 OCIM*
 *ipynb_checkpoints
 *.mat
+*.csv
+*.json
 
